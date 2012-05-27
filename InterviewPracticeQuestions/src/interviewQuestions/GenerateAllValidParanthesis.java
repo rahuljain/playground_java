@@ -10,6 +10,11 @@ import java.util.HashSet;
  *
  */
 public class GenerateAllValidParanthesis {
+	
+	/*public HashSet<String> getAllCombinations(int paranPairs)
+	{
+		HashSet<String> combinations = new HashSet<String>();
+	}*/
 
 	public HashSet<String> getAllCombinations(String string)
 	{
